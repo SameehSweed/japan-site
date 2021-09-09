@@ -1,0 +1,40 @@
+.article1 {
+  position: relative;
+  background-image: url(/images/atomic-bomb.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.article2 {
+  position: relative;
+  background-image: url(https://i.pinimg.com/originals/b2/84/65/b2846529a3a41bed9fb62554834ae531.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.article3 {
+  position: relative;
+  background-image: url(https://www.washingtonpost.com/resizer/3FyM8xzesQmJ6OM4Z_5taZMIZWI=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6UQJUFXWYEI6RBSCZFYYUJLMXU.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+p {
+  background: rgba(0, 0, 0, 0.6);
+  padding: 30px;
+}
+
+iframe {
+  padding: 10px;
+  float: left;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+h1 {
+  color: #f30404;
+  text-align: center;
+  padding: 10px;
+}
+/*# sourceMappingURL=page2.css.map */

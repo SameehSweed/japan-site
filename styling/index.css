@@ -1,0 +1,24 @@
+body {
+  background-image: url(https://images5.alphacoders.com/937/937178.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+main {
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+h1 {
+  padding: 10px;
+  text-align: center;
+}
+
+.article1 {
+  text-align: center;
+  margin-top: -4px;
+}
+
+p {
+  padding: 10px;
+}
+/*# sourceMappingURL=index.css.map */

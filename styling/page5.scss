@@ -1,0 +1,71 @@
+
+ /* General setting
+ ***********************/
+:root{
+    font-size: 62.5%;
+}
+*{
+     padding: 0;
+     margin: 0;
+     box-sizing: 0;
+   
+}
+ /****************
+* body setting
+******************/
+body {
+    max-width: 2000px;
+}
+ /**********************
+ * header setting
+ ***********************/
+h1{
+    color: #eecc09;
+    text-shadow:
+      3px 0 3px #dbad92,
+      0 4px 4px #6d3b3b,
+      -4px 0 4px #000000,
+      0 -4px 4px #000000,
+      0 15px 15px #000000;
+      font-size: 4rem;
+      margin: 0;
+      text-align: center;
+     
+}
+ /****************
+* main setting
+******************/
+
+.end{
+    color:white;
+    font-size: 2em;
+    margin-top: 50px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 2rem;
+    background-color: rgba(172, 171, 171, 0.5) ;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 10px;
+}
+.contact{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    font-size: 2em;
+    
+}
+.contact li{
+    border: 2px solid black;
+    background-color: rgba(172, 171, 171, 0.5) ;
+    padding: 30px;
+    margin: 40px;
+    border-radius: 2rem;
+}
+i{
+    color: black;
+    size: 50px;
+}
